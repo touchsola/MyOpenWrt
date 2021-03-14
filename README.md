@@ -11,7 +11,7 @@
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier/  
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd/  
     Argon主题：https://github.com/jerrykuku/luci-theme-argon/  
-    Argon主题设置：https://github.com/jerrykuku/luci-app-argon-config/  
+    Argon主题设置：https://github.com/jerrykuku/luci-app-argon/  
     Edge主题：https://github.com/jerrykuku/luci-app-argon-config/    
       
 ## 3. 编译包含以下OpenWrt Package  
