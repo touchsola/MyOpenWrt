@@ -1,5 +1,7 @@
 # MyOpenWrt
-1. 编译包含以下常用工具  
+1. OpenWrt来源：  
+    https://github.com/openwrt/openwrt  
+3. 编译包含以下常用工具  
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash/  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
@@ -7,8 +9,7 @@
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd/  
     Argon主题：https://github.com/jerrykuku/luci-theme-argon/  
     Argon主题设置：https://github.com/jerrykuku/luci-app-argon-config/  
-    Edge主题：https://github.com/jerrykuku/luci-app-argon-config/  
-  
+    Edge主题：https://github.com/jerrykuku/luci-app-argon-config/    
 2. 编译包含以下OpenWrt Package  
     luci-app-banip：外网环境可以禁止风险IP  
     luci-app-ddns：动态DNS客户端  
