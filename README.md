@@ -38,6 +38,6 @@
     而AdGuardHome兼容性更好  
     - 同时开启需要修改 AdGuardHome 管理页面端口为3001或其他，避免占用 GodProxy 的3000端口  
     - 开启 AdGuardHome 并使用 OpenClash ：需要在 OpenClash 全局设置-DNS设置-勾选自定义上游DNS服务器-添加127.0.0.1:[AdGuardHome端口]  
-    - 开启 AdGuardHome 并使用 HelloWorld ：需要在 HelloWorld DNS解析方式-使用本机端口为[AdGuardHome端口]的DNS服务  
+    - 开启 AdGuardHome 并使用 HelloWorld ：需要先切换Argon主题，然后在 HelloWorld DNS解析方式-使用本机端口为[AdGuardHome端口]的DNS服务  
     - 开启 GodProxy滤广告 并使用 OpenClash ：不要勾选自定义上游DNS服务器
-    - 开启 GodProxy滤广告 并使用 HelloWorld ：网络-DHCP/DNS-高级设置-DNS 服务器端口-修改为非53的其他数字，以便PDNSD能正常工作
+    - 开启 GodProxy滤广告 并使用 HelloWorld ：需要先切换Argon主题，然后在 网络-DHCP/DNS-高级设置-DNS 服务器端口-修改为非53的其他数字，以便PDNSD能正常工作
