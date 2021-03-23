@@ -17,8 +17,8 @@
     Edge主题：https://github.com/jerrykuku/luci-app-argon-config/    
       
 ## 3. 编译包含以下OpenWrt Package  
-    luci-app-banip：外网环境可以禁止风险IP  
-    luci-app-ddns：动态DNS客户端  
+    luci-app-banip：对banIP的设置  
+    luci-app-ddns：对动态DNS客户端的设置  
     luci-app-uhttpd：uHTTPd Web服务器配置  
     luci-app-upnp：upnp配置模块  
     luci-app-wol：局域网唤醒的支持  
