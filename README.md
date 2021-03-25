@@ -7,15 +7,15 @@
 ## 2. 编译包含以下常用工具  
     GodProxy滤广告：https://github.com/project-lede/luci-app-godproxy  
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
-    OpenClash：https://github.com/vernesong/OpenClash/  
+    OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
     HelloWorld：https://github.com/jerrykuku/luci-app-vssr  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
-    Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier/  
-    vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd/  
-    Argon主题：https://github.com/jerrykuku/luci-theme-argon/  
-    Argon主题设置：https://github.com/jerrykuku/luci-app-argon/  
-    Edge主题：https://github.com/jerrykuku/luci-app-argon-config/    
+    Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier  
+    vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
+    Argon主题：https://github.com/jerrykuku/luci-theme-argon  
+    Argon主题设置：https://github.com/jerrykuku/luci-app-argon  
+    Edge主题：https://github.com/jerrykuku/luci-app-argon-config    
       
 ## 3. 编译包含以下OpenWrt Package  
     luci-app-ddns：对动态DNS客户端的设置  
