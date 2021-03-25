@@ -8,6 +8,7 @@
     GodProxy滤广告：https://github.com/project-lede/luci-app-godproxy  
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash/  
+    Bypass：https://github.com/garypang13/luci-app-bypass  
     HelloWorld：https://github.com/jerrykuku/luci-app-vssr  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier/  
@@ -17,7 +18,6 @@
     Edge主题：https://github.com/jerrykuku/luci-app-argon-config/    
       
 ## 3. 编译包含以下OpenWrt Package  
-    luci-app-banip：对banIP的设置  
     luci-app-ddns：对动态DNS客户端的设置  
     luci-app-uhttpd：uHTTPd Web服务器配置  
     luci-app-upnp：upnp配置模块  
