@@ -9,7 +9,6 @@
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
-    HelloWorld：https://github.com/jerrykuku/luci-app-vssr  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier  
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
