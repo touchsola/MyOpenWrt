@@ -9,9 +9,11 @@
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
+    解除网易云音乐播放限制：https://github.com/immortalwrt/luci-app-unblockneteasemusic  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier  
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
+    定时设置插件：https://github.com/sirpdboy/luci-app-autotimeset
     Argon主题：https://github.com/jerrykuku/luci-theme-argon  
     Argon主题设置：https://github.com/jerrykuku/luci-app-argon  
     Edge主题：https://github.com/jerrykuku/luci-app-argon-config    
@@ -21,6 +23,7 @@
     luci-app-uhttpd：uHTTPd Web服务器配置  
     luci-app-upnp：upnp配置模块  
     luci-app-wol：局域网唤醒的支持  
+    luci-app-sqm：智能队列管理配置  
       
 ## 4. 截图  
 ![Screenshot_2021-03-14 OpenWrt - 概览 - LuCI(1)](https://user-images.githubusercontent.com/72115940/111072058-e9e67700-8513-11eb-836f-877c1bbdd12c.png)  
