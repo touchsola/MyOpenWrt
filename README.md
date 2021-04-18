@@ -30,7 +30,7 @@
 ## 4. 截图  
 ![Screenshot_2021-03-14 OpenWrt - 概览 - LuCI(1)](https://user-images.githubusercontent.com/72115940/111072058-e9e67700-8513-11eb-836f-877c1bbdd12c.png)  
   
-![Screenshot_2021-03-14 OpenWrt - 概览 - LuCI(2)](https://user-images.githubusercontent.com/72115940/111072056-e9e67700-8513-11eb-911e-507df2d408a2.png)  
+![Screenshot_2021-04-18 OpenWrt - 概览 - LuCI](https://user-images.githubusercontent.com/72115940/115141803-d8434280-a070-11eb-8a29-01b304b418ef.png)
   
 ![Screenshot_2021-03-14 OpenWrt - 基础设置 - LuCI](https://user-images.githubusercontent.com/72115940/111072054-e81cb380-8513-11eb-9d9b-ba737aad6bbb.png)  
   
