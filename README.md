@@ -36,6 +36,8 @@
   
 ![Screenshot_2021-03-15 OpenWrt - GodProxy滤广告 - LuCI](https://user-images.githubusercontent.com/72115940/111124122-17caca80-85ab-11eb-8ca5-ae6d3cbd77a4.png)
   
+![Screenshot_2021-04-18 OpenWrt - 基本设置 - LuCI(1)](https://user-images.githubusercontent.com/72115940/115140589-96170280-a06a-11eb-988d-f6084e08317a.png)
+  
 ## 5. 关于广告拦截说明
     GodProxy滤广告 和 AdGuardHome 均为广告拦截工具，二选一或者双剑合璧。  
     GodProxy滤广告的过滤更强大，可以过滤YT视频广告  
