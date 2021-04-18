@@ -9,7 +9,9 @@
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
-    解除网易云音乐播放限制：https://github.com/immortalwrt/luci-app-unblockneteasemusic  
+    解锁网易云灰色歌曲：https://github.com/maxlicheng/luci-app-unblockmusic  
+    OpenAppFilter：https://github.com/destan19/OpenAppFilter
+    京东签到服务：https://github.com/jerrykuku/luci-app-jd-dailybonus  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier  
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
