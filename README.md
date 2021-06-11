@@ -11,7 +11,7 @@
     Bypass：https://github.com/garypang13/luci-app-bypass  
     PassWall：https://github.com/xiaorouji/openwrt-passwall/  
     解锁网易云灰色歌曲：https://github.com/maxlicheng/luci-app-unblockmusic  
-    京东签到服务：https://github.com/cielpy/luci-app-jd-dailybonus  
+    京东签到服务：https://github.com/jerrykuku/luci-app-jd-dailybonus  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
     Zerotier设置界面：https://github.com/rufengsuixing/luci-app-zerotier  
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
