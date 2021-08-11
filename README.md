@@ -10,6 +10,7 @@
     OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
     PassWall：https://github.com/xiaorouji/openwrt-passwall/  
+    Helloworld（需要切换Argon主题后使用）：https://github.com/jerrykuku/luci-app-vssr
     解锁网易云灰色歌曲：https://github.com/maxlicheng/luci-app-unblockmusic  
     京东签到服务：https://github.com/jerrykuku/luci-app-jd-dailybonus  
     流量监控：https://github.com/brvphoenix/luci-app-wrtbwmon  
@@ -18,13 +19,14 @@
     定时设置插件：https://github.com/sirpdboy/luci-app-autotimeset
     Argon主题：https://github.com/jerrykuku/luci-theme-argon  
     Argon主题设置：https://github.com/jerrykuku/luci-app-argon  
-    Edge主题：https://github.com/jerrykuku/luci-app-argon-config    
+    Edge主题：https://github.com/jerrykuku/luci-app-argon-config
+    网络唤醒Plus：https://github.com/siwind/luci-app-wolplus  
+    高级设置+文件管理：https://github.com/sirpdboy/luci-app-advanced  
       
 ## 3. 编译包含以下OpenWrt Package  
     luci-app-ddns：对动态DNS客户端的设置  
     luci-app-uhttpd：uHTTPd Web服务器配置  
     luci-app-upnp：upnp配置模块  
-    luci-app-wol：局域网唤醒的支持  
     luci-app-sqm：智能队列管理配置  
       
 ## 4. 截图  
