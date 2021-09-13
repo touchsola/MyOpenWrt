@@ -28,6 +28,7 @@
     luci-app-uhttpd：uHTTPd Web服务器配置  
     luci-app-upnp：upnp配置模块  
     luci-app-sqm：智能队列管理配置  
+    luci-app-openvpn：OpenVPN支持  
       
 ## 4. 截图  
 ![Screenshot_2021-03-14 OpenWrt - 概览 - LuCI(1)](https://user-images.githubusercontent.com/72115940/111072058-e9e67700-8513-11eb-836f-877c1bbdd12c.png)  
