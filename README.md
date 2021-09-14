@@ -18,8 +18,8 @@
     vlmcsd设置界面：https://github.com/cokebar/luci-app-vlmcsd  
     定时设置插件：https://github.com/sirpdboy/luci-app-autotimeset
     Argon主题：https://github.com/jerrykuku/luci-theme-argon  
-    Argon主题设置：https://github.com/jerrykuku/luci-app-argon  
-    Edge主题：https://github.com/jerrykuku/luci-app-argon-config
+    Argon主题设置：https://github.com/jerrykuku/luci-app-argon-config  
+    Edge主题：https://github.com/kiddin9/luci-theme-edge  
     网络唤醒Plus：https://github.com/siwind/luci-app-wolplus  
     高级设置+文件管理：https://github.com/sirpdboy/luci-app-advanced  
       
