@@ -5,7 +5,7 @@
     https://github.com/openwrt/openwrt  
       
 ## 2. 编译包含以下常用工具  
-    GodProxy滤广告：https://github.com/project-lede/luci-app-godproxy  
+    iKoolProxy滤广告：https://github.com/iwrt/luci-app-ikoolproxy  
     AdGuardHome：https://github.com/rufengsuixing/luci-app-adguardhome  
     OpenClash：https://github.com/vernesong/OpenClash  
     Bypass：https://github.com/garypang13/luci-app-bypass  
@@ -42,9 +42,9 @@
 ![Screenshot_2021-04-18 OpenWrt - 基本设置 - LuCI(1)](https://user-images.githubusercontent.com/72115940/115140589-96170280-a06a-11eb-988d-f6084e08317a.png)
   
 ## 5. 关于广告拦截说明
-    GodProxy滤广告 和 AdGuardHome 均为广告拦截工具，二选一或者双剑合璧。  
-    GodProxy滤广告的过滤更强大，可以过滤YT视频广告  
+    iKoolProxy滤广告 和 AdGuardHome 均为广告拦截工具，二选一或者双剑合璧。  
+    iKoolProxy滤广告的过滤更强大，可以过滤YT视频广告  
     而AdGuardHome兼容性更好  
-    - 同时开启需要修改 AdGuardHome 管理页面端口为3001或其他，避免占用 GodProxy 的3000端口  
+    - 同时开启需要修改 AdGuardHome 管理页面端口为3001或其他，避免占用 iKoolProxy 的3000端口  
     - 开启 AdGuardHome 并使用 OpenClash ：需要在 OpenClash 全局设置-DNS设置-勾选自定义上游DNS服务器-添加127.0.0.1:[AdGuardHome端口]  
-    - 开启 GodProxy滤广告 并使用 OpenClash ：不要勾选自定义上游DNS服务器
+    - 开启 iKoolProxy滤广告 并使用 OpenClash ：不要勾选自定义上游DNS服务器
